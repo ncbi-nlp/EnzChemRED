@@ -33,15 +33,17 @@ Located in the `biorex` folder.
 
 If you use EnzChemRED in your research, please cite:
 
-* Lai, Po-Ting, et al. EnzChemRED, a rich enzyme chemistry relation extraction dataset. arXiv preprint arXiv:2404.14209 (2024).
+* Lai, PT., Coudert, E., Aimo, L. _et al._ EnzChemRED, a rich enzyme chemistry relation extraction dataset. _Sci Data_ **11**, 982 (2024). https://doi.org/10.1038/s41597-024-03835-7
 ```
 @article{lai2024enzchemred,
   title         = {EnzChemRED, a rich enzyme chemistry relation extraction dataset}, 
   author        = {Po-Ting Lai and Elisabeth Coudert and Lucila Aimo and Kristian Axelsen and Lionel Breuza and Edouard de Castro and Marc Feuermann and Anne Morgat and Lucille Pourcel and Ivo Pedruzzi and Sylvain Poux and Nicole Redaschi and Catherine Rivoire and Anastasia Sveshnikova and Chih-Hsuan Wei and Robert Leaman and Ling Luo and Zhiyong Lu and Alan Bridge},
+  journal       = {Scientific Data},
+  volume        = {11},
+  number        = {1},
+  pages         = {982},
   year          = {2024},
-  eprint        = {2404.14209},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CL},
-  url           = {https://arxiv.org/abs/2404.14209}, 
+  publisher     = {Nature Publishing Group UK London},
+  doi           = {10.1038/s41597-024-03835-7}
 }
 ```
